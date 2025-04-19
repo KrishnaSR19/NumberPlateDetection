@@ -1,0 +1,52 @@
+{
+  "vehicles": {
+    "MH12AB1234": {
+      "owner": "Rajesh Patil",
+      "flat_no": "B-202",
+      "vehicle_type": "Car",
+      "plate_no": "MH12AB1234"
+    },
+    "22BH6517": {
+      "owner": "Sneha Deshmukh",
+      "flat_no": "C-305",
+      "vehicle_type": "Bike",
+      "plate_no": "22BH6517"
+    },
+    "22BH6517A": {
+      "owner": "Sneha Deshmukh",
+      "flat_no": "C-305",
+      "vehicle_type": "Car",
+      "plate_no": "22BH6517"
+    },
+    "MH19E00001": {
+      "owner": "Amit Kulkarni",
+      "flat_no": "A-101",
+      "vehicle_type": "Scooter",
+      "plate_no": "MH19E00001"
+    },
+    "MH19EQ0001": {
+      "owner": "Amit Kulkarni",
+      "flat_no": "A-101",
+      "vehicle_type": "Scooter",
+      "plate_no": "MH19EQ0001"
+    },
+    "MHOGEF3259": {
+      "owner": "Neha Joshi",
+      "flat_no": "D-404",
+      "vehicle_type": "Car",
+      "plate_no": "MHOGEF3259"
+    },
+    "TS1UEF2345": {
+      "owner": "Ram Kulkarni",
+      "flat_no": "B-101",
+      "vehicle_type": "Scooter",
+      "plate_no": "TS10EF2345"
+    },
+    "TS10EF2345": {
+      "owner": "Ram Kulkarni",
+      "flat_no": "B-101",
+      "vehicle_type": "Scooter",
+      "plate_no": "MH19E00001"
+    },
+  }
+}
