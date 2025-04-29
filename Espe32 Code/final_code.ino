@@ -34,7 +34,7 @@ FirebaseAuth auth;
 FirebaseConfig fbConfig;
 
 // Server URL (update with your Python server IP)
-const char* serverUrl = "http://192.168.58.196:5000/upload";
+const char* serverUrl = "http://192.168.82.196:5000/upload";
 
 // Target License Plate for testing (will be updated after image processing)
 String targetLicensePlate = "";
